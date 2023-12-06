@@ -1,3 +1,7 @@
+
+Output
+![Capture](https://github.com/ramanathanem/Blog/assets/137532243/561974ac-0271-437f-ae89-df83df53224a)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
